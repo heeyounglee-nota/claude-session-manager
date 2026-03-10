@@ -1,0 +1,11 @@
+{
+  "name": "claude-sessions",
+  "version": "1.0.0",
+  "description": "Browse and resume old Claude Code sessions from the terminal",
+  "main": "index.js",
+  "bin": {
+    "claude-sessions": "./index.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
